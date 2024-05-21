@@ -32,15 +32,8 @@ const Navbar = () => {
             {/* Social media links */}
             <div className="">
                 <Link href="#">
-                    <Image src='public/github.svg' alt='github icon' width={24} height={24}/>
+                    <Image src='/../public/github.png' alt='github icon' width={24} height={24}/>
                 </Link> 
-                {/* <Link href="/">
-                    <Image src='../../public/github.png' alt='linkedin icon' width={24} height={24}/>
-                </Link> 
-                <Link href="/">
-                    <Image src='../../public/github.png' alt='IG icon' width={24} height={24}/>
-                </Link>  */}
-
             </div>
 
             {/* RESPONSIVE HAMBURGER MENU */}
